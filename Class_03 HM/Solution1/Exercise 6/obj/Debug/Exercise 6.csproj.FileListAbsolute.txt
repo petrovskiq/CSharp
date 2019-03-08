@@ -1,0 +1,7 @@
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\bin\Debug\Exercise 6.exe.config
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\bin\Debug\Exercise 6.exe
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\bin\Debug\Exercise 6.pdb
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\obj\Debug\Exercise 6.csprojAssemblyReference.cache
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\obj\Debug\Exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\obj\Debug\Exercise 6.exe
+C:\Users\NewLight\source\repos\Solution1\Exercise 6\obj\Debug\Exercise 6.pdb

@@ -1,0 +1,6 @@
+C:\Users\NewLight\Desktop\C# Basic\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\NewLight\Desktop\C# Basic\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\NewLight\Desktop\C# Basic\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\NewLight\Desktop\C# Basic\Solution1\ConsoleApp1\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\NewLight\Desktop\C# Basic\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\NewLight\Desktop\C# Basic\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
