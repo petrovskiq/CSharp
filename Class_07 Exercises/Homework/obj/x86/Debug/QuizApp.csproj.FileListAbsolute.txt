@@ -1,0 +1,6 @@
+/Users/PetrovskiMartin/Projects/QuizApp/QuizApp/bin/Debug/QuizApp.exe
+/Users/PetrovskiMartin/Projects/QuizApp/QuizApp/bin/Debug/QuizApp.pdb
+/Users/PetrovskiMartin/Projects/QuizApp/QuizApp/obj/x86/Debug/QuizApp.csprojAssemblyReference.cache
+/Users/PetrovskiMartin/Projects/QuizApp/QuizApp/obj/x86/Debug/QuizApp.csproj.CoreCompileInputs.cache
+/Users/PetrovskiMartin/Projects/QuizApp/QuizApp/obj/x86/Debug/QuizApp.exe
+/Users/PetrovskiMartin/Projects/QuizApp/QuizApp/obj/x86/Debug/QuizApp.pdb
