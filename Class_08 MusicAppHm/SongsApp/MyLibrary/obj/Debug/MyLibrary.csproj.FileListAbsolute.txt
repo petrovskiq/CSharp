@@ -1,0 +1,6 @@
+C:\Users\NewLight\Desktop\SongsApp\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\NewLight\Desktop\SongsApp\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\NewLight\Desktop\SongsApp\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\NewLight\Desktop\SongsApp\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NewLight\Desktop\SongsApp\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\NewLight\Desktop\SongsApp\MyLibrary\obj\Debug\MyLibrary.pdb

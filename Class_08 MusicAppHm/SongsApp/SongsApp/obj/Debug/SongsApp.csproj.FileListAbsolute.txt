@@ -1,0 +1,10 @@
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\bin\Debug\SongsApp.exe.config
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\bin\Debug\SongsApp.exe
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\bin\Debug\SongsApp.pdb
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\bin\Debug\MyLibrary.dll
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\bin\Debug\MyLibrary.pdb
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\obj\Debug\SongsApp.csprojAssemblyReference.cache
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\obj\Debug\SongsApp.csproj.CoreCompileInputs.cache
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\obj\Debug\SongsApp.csproj.CopyComplete
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\obj\Debug\SongsApp.exe
+C:\Users\NewLight\Desktop\SongsApp\SongsApp\obj\Debug\SongsApp.pdb
