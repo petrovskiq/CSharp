@@ -103,7 +103,7 @@ namespace SongsApp
             FiltratingSongsByLength(StefanSongs);
             #endregion
 
-            #region posledniot tasak nemozev da go sredam, mi ispaga greska: System.NullReferenceException: 'Object reference not set to an instance of an object.'
+            #region posledniot task nemozev da go sredam, mi ispaga greska: System.NullReferenceException: 'Object reference not set to an instance of an object.'
             List<Person> Test = FansArray.Where(pers => pers.FavoriteSongs.Count > 4).ToList();
             #endregion
 
