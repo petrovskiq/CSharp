@@ -106,15 +106,7 @@ namespace SongsApp
             CheckingHowManyFavSongs(FansArray, 4);
             #endregion
 
-            #region Persons with more than 4 songs
-
-
-
-
-            #endregion
-
-
-
+           
             Console.ReadLine();
 
         }
