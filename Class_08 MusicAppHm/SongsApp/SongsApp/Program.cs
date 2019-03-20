@@ -60,7 +60,7 @@ namespace SongsApp
                                     song8, song9, song10, song11, song12, song13, song14,
                                     song15, song16, song17, song18, song19, song20,
                                     song21, song22, song23, song24, song25, song26, song27, song28, song29, song30 };
-            
+
             #region Adding Person Objects to array
             FansArray.Add(Jerry);
             FansArray.Add(Stefan);
@@ -101,10 +101,16 @@ namespace SongsApp
             Console.WriteLine("Stefan songs under 3 minutes");
             Console.WriteLine("\n");
             FiltratingSongsByLength(StefanSongs);
+            Console.WriteLine("\n\n");
+            Console.WriteLine("Persons with more than 4 songs");
+            CheckingHowManyFavSongs(FansArray, 4);
             #endregion
 
-            #region posledniot task nemozev da go sredam, mi ispaga greska: System.NullReferenceException: 'Object reference not set to an instance of an object.'
-            List<Person> Test = FansArray.Where(pers => pers.FavoriteSongs.Count > 4).ToList();
+            #region Persons with more than 4 songs
+
+
+
+
             #endregion
 
 
@@ -112,6 +118,19 @@ namespace SongsApp
             Console.ReadLine();
 
         }
+        #region People with more than 4 Favorite Songs
+        private static void CheckingHowManyFavSongs(List<Person> FansArray, int leng)
+        {
+            foreach (var item in FansArray)
+            {
+                if (item.FavoriteSongs.Count >= leng)
+                {
+                    Console.WriteLine(item.FirstName);
+                }
+            }
+        }
+        #endregion
+        
         #region Jane
         public static void RockSongsFilter(List<Song> SngsArray)
         {
